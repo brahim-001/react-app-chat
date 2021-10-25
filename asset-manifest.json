@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/brahim-001/react-app-chat/static/css/main.a2d9d42a.chunk.css",
+    "main.js": "/brahim-001/react-app-chat/static/js/main.5326a261.chunk.js",
+    "main.js.map": "/brahim-001/react-app-chat/static/js/main.5326a261.chunk.js.map",
+    "runtime-main.js": "/brahim-001/react-app-chat/static/js/runtime-main.1356f331.js",
+    "runtime-main.js.map": "/brahim-001/react-app-chat/static/js/runtime-main.1356f331.js.map",
+    "static/js/2.9b19c48c.chunk.js": "/brahim-001/react-app-chat/static/js/2.9b19c48c.chunk.js",
+    "static/js/2.9b19c48c.chunk.js.map": "/brahim-001/react-app-chat/static/js/2.9b19c48c.chunk.js.map",
+    "static/js/3.5e4bcbc2.chunk.js": "/brahim-001/react-app-chat/static/js/3.5e4bcbc2.chunk.js",
+    "static/js/3.5e4bcbc2.chunk.js.map": "/brahim-001/react-app-chat/static/js/3.5e4bcbc2.chunk.js.map",
+    "index.html": "/brahim-001/react-app-chat/index.html",
+    "static/css/main.a2d9d42a.chunk.css.map": "/brahim-001/react-app-chat/static/css/main.a2d9d42a.chunk.css.map",
+    "static/js/2.9b19c48c.chunk.js.LICENSE.txt": "/brahim-001/react-app-chat/static/js/2.9b19c48c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1356f331.js",
+    "static/js/2.9b19c48c.chunk.js",
+    "static/css/main.a2d9d42a.chunk.css",
+    "static/js/main.5326a261.chunk.js"
+  ]
+}
